@@ -1,0 +1,5 @@
+streamlit
+gradientai==1.13.0
+langchain
+langchain-community
+pandas
