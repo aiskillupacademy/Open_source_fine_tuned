@@ -18,12 +18,12 @@ This Streamlit app empowers you to fine-tune the open-source "nous-hermes2" larg
 - `pandas` library
 - `gradientai` library (specific instructions for installation might be needed)
 - `langchain_community` library (specific instructions for installation might be needed)
-- A Gradientai account with a workspace and access token ([https://www.gradientai.com/](https://www.gradientai.com/))
+- A Gradientai account with a workspace and access token ([https://www.gradient.ai/](https://www.gradient.ai/))
 
 **Installation:**
 
 1. Install the required libraries using `pip install streamlit pandas gradientai langchain_community`.
-2. Create a Gradientai account and obtain your workspace ID and access token ([https://www.gradientai.com/](https://www.gradientai.com/)).
+2. Create a Gradientai account and obtain your workspace ID and access token ([https://www.gradient.ai/](https://www.gradient.ai/)).
 3. Store these credentials securely (environment variables recommended) before running the application.
 
 **Usage:**
